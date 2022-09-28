@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximopeoficiales&show_icons=true&locale=en" alt="maximopeoficiales" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximopeoficiales&" alt="maximopeoficiales" /></p>
+[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximopeoficiales&" alt="maximopeoficiales" /></p>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
-
+](https://api.daily.dev/devcards/a6bb641798654643b6efe76b2790108f.png?r=815)
 
